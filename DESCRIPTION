@@ -1,0 +1,14 @@
+Package: Ripinfo
+Version: 0.1-0
+Title: Mapping IP addresses to physical locations and countries via ipinfo.com's Web service
+Author: Duncan Temple Lang
+Imports: RCurl, XML
+Maintainer: Duncan Temple Lang <duncan@wald.ucdavis.edu>
+Description: This package allows one to map a computer's IP address
+ to a country or to more specific longitude and latitude and city coordinates.
+ This uses a Web service provided by ipinfo.com.
+License: BSD
+
+
+
+
